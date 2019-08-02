@@ -1,0 +1,30 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="shahed.com" resolutions="1x" timestamp="1564735062990">
+  <folder name="css">
+    <file name="site_global.css" crc="127588379"/>
+    <file name="master_a-master.css" crc="98724583" ref="home-copy-3:home-copy-2:index:home-copy"/>
+    <file name="nomq_preview_master_a-master.css" crc="408277479" ref="home-copy-3:home-copy-2:index:home-copy"/>
+    <file name="home-copy-3.css" crc="4005683486" ref="home-copy-3"/>
+    <file name="nomq_home-copy-3.css" crc="212670730" ref="home-copy-3"/>
+    <file name="home-copy-2.css" crc="3982528536" ref="home-copy-2"/>
+    <file name="nomq_home-copy-2.css" crc="4068174763" ref="home-copy-2"/>
+    <file name="index.css" crc="3929611719" ref="index"/>
+    <file name="nomq_index.css" crc="4011758134" ref="index"/>
+    <file name="home-copy.css" crc="335101003" ref="home-copy"/>
+    <file name="nomq_home-copy.css" crc="433432759" ref="home-copy"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-copy:home-copy-2:home-copy-3"/>
+    <file name="museutils.js" crc="340535759" ref="index:home-copy:home-copy-2:home-copy-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home-copy:home-copy-2:home-copy-3"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:home-copy:home-copy-2:home-copy-3"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:home-copy:home-copy-2:home-copy-3"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:home-copy:home-copy-2:home-copy-3"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:home-copy:home-copy-2:home-copy-3"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:home-copy:home-copy-2:home-copy-3"/>
+    <file name="require.js" crc="7928878" ref="index:home-copy:home-copy-2:home-copy-3"/>
+  </folder>
+  <file name="index.html" crc="4230861633" seo="true" mt="1564734617677" redirect="true"/>
+  <file name="home-copy.html" crc="286596181" seo="true" mt="1564734617677" redirect="true"/>
+  <file name="home-copy-2.html" crc="129521084" seo="true" mt="1564734617677" redirect="true"/>
+  <file name="home-copy-3.html" crc="4132978464" seo="true" mt="1564734617677" redirect="true"/>
+</manifest>
